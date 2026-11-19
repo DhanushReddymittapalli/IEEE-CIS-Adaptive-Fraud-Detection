@@ -1,0 +1,49 @@
+Adaptive and Explainable Fraud Detection
+
+Research Project by Dhanush Reddy Mittapalli
+Independent Researcher
+
+Overview
+
+This project investigates temporal distribution drift and missingness-associated fraud patterns in IEEE-CIS e-commerce transactions.
+
+Research Objectives
+
+1. Develop a machine-learning fraud detection model.
+2. Evaluate performance using chronological data splitting.
+3. Investigate temporal distribution drift.
+4. Analyze missingness-associated fraud patterns.
+5. Compare global and adaptive threshold policies.
+6. Improve reproducibility and explainability.
+
+Dataset
+
+The research uses the IEEE-CIS Fraud Detection dataset.
+
+Dataset access: https://www.kaggle.com/competitions/ieee-fraud-detection
+
+Note: The original dataset is not included in this repository. Users must obtain it through Kaggle and follow its terms of use.
+
+Methodology
+
+- Chronological train, validation and test evaluation
+- XGBoost classification
+- Threshold optimization
+- Population Stability Index (PSI)
+- Jensen-Shannon divergence
+- Kolmogorov-Smirnov diagnostics
+- Missingness and interaction analysis
+
+Current Status
+
+Research code and documentation are being organized for reproducibility. Further validation and improvements are planned.
+
+Author
+
+Dhanush Reddy Mittapalli
+Independent Researcher
+ORCID: https://orcid.org/0009-0007-6626-0613
+
+Disclaimer
+
+This repository is for academic research and educational purposes. Reported experimental results should be interpreted in light of the study's limitations and evaluation design.
