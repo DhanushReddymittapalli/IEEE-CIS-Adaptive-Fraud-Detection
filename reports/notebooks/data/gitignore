@@ -1,0 +1,32 @@
+Dataset files
+
+*.csv
+*.zip
+*.parquet
+
+Python files
+
+pycache/
+*.py[cod]
+.ipynb_checkpoints/
+
+Model files
+
+*.pkl
+*.joblib
+*.model
+
+Temporary files
+
+*.log
+*.tmp
+
+Environment files
+
+.env
+venv/
+.venv/
+
+System files
+
+.DS_Store
